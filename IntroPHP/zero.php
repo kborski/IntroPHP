@@ -14,6 +14,7 @@ $foo = "foobar";
 $first = "first";
 $date = "09/14/2022";
 $foobar = 999;
+$foobar = 997;
 
 //echo web page to browser
 echo "<!DOCTYPE html>
